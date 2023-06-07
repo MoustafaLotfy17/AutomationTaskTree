@@ -1,7 +1,6 @@
 # Tree Task
 
-This is a repository for practicing Behavior Driven Development (BDD) using the Cucumber framework.
-
+Selenuim Task
 
 ## Getting Started
 
